@@ -24,13 +24,6 @@
   margin: 20px auto 0;
 }
 
-.u-section-1 .u-btn-1 {
-  background-image: none;
-  border-style: none none solid;
-  font-style: italic;
-  padding: 0;
-}
-
 .u-section-1 .u-layout-wrap-1 {
   width: 1009px;
   margin: 39px auto 0;
@@ -54,7 +47,7 @@
   margin: 20px 2px 0 0;
 }
 
-.u-section-1 .u-btn-2 {
+.u-section-1 .u-btn-1 {
   background-image: none;
   border-style: none none solid;
   margin-left: 0;
@@ -81,7 +74,7 @@
   margin: 20px 2px 0 0;
 }
 
-.u-section-1 .u-btn-3 {
+.u-section-1 .u-btn-2 {
   background-image: none;
   border-style: none none solid;
   margin-left: 0;
@@ -109,7 +102,7 @@
   margin: 20px 2px 0 0;
 }
 
-.u-section-1 .u-btn-4 {
+.u-section-1 .u-btn-3 {
   background-image: none;
   border-style: none none solid;
   margin-left: 0;
@@ -136,7 +129,7 @@
   margin: 20px 1px 0;
 }
 
-.u-section-1 .u-btn-5 {
+.u-section-1 .u-btn-4 {
   background-image: none;
   border-style: none none solid;
   letter-spacing: 2px;
@@ -196,7 +189,7 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-5 {
+  .u-section-1 .u-btn-4 {
     margin-left: 0;
   }
 }
